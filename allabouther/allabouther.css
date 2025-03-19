@@ -1,0 +1,15 @@
+body{
+    background-color: black ;
+    color: white;
+    text-align: center;
+}
+
+.bio{
+    text-align: center;
+    color: red;
+    scale: 200%;
+}
+
+.lee{
+    text-align: center;
+}
